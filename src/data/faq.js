@@ -9,7 +9,7 @@ const faqData = [
     category: "History",
     question: "Why do Shia People cry?",
     answer:
-      "HCrying for Imam Hussain (as) is a profound spiritual and conscientious practice rooted in deep love for the Prophet Muhammad's family, acting as an emotional pledge to uphold justice and a permanent, peaceful protest against tyranny and oppression across human history"
+      "Crying for Imam Hussain (as) is a profound spiritual and conscientious practice rooted in deep love for the Prophet Muhammad's family, acting as an emotional pledge to uphold justice and a permanent, peaceful protest against tyranny and oppression across human history"
   },
   {
     category: "History",
