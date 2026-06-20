@@ -9,7 +9,7 @@ const personalities = [
       "Grandson of Prophet Muhammad (PBUH) and the central figure of Karbala.",
 
     biography: `
-Imam Hussain ibn Ali (as) was born on the 3rd of Sha'ban in the year 4 AH (626 CE) in the holy city of Medina. He was the grandson of the Prophet Muhammad, the younger son of Ali ibn Abi Talib and Fatima Zahra, and the younger brother of Imam Hassan (as). His life culminated in a profound martyrdom (Shahadat) on the 10th of Muharram, 61 AH at the Battle of Karbala in modern-day Iraq, where he and a small band of 72 companions were killed by the forces of the tyrant Yazid I after being denied water for three days
+Imam Hussain ibn Ali (as) was born on the 3rd of Sha'ban in the year 4 AH (626 CE) in the holy city of Medina. He was the grandson of the Prophet Muhammad (PBUH), the younger son of Ali ibn Abi Talib (as) and Fatima Zahra (sa), and the younger brother of Imam Hassan (as). His life culminated in a profound martyrdom (Shahadat) on the 10th of Muharram, 61 AH at the Battle of Karbala in modern-day Iraq, where he and a small band of 72 companions were killed by the forces of the tyrant Yazid I after being denied water for three days
 `,
 
     roleInKarbala:
@@ -33,7 +33,7 @@ Imam Hussain ibn Ali (as) was born on the 3rd of Sha'ban in the year 4 AH (626 C
       "Half-brother of Imam Hussain (AS) and the flag bearer of Karbala.",
 
     biography: `
-Hazrat Abbas ibn Ali (as) was born on the 4th of Sha'ban in the year 26 AH (647 CE) in the holy city of Medina. He was the son of Ali ibn Abi Talib (as) and Fatima bint Hizam (widely known as Umm ul-Banin), the paternal grandson of Abu Talib, and the fiercely loyal half-brother of Imam Hassan (as) and Imam Hussain (as). His life culminated in a heroic yet tragic martyrdom (Shahadat) on the 10th of Muharram, 61 AH at the Battle of Karbala in Iraq, where he served as the Commander and Standard-Bearer (Alambardar) of Imam Hussain's army. He was brutally martyred by Umayyad forces while attempting to bring water from the Euphrates River back to the thirsty children of the camp, losing both his arms in the process
+Hazrat Abbas ibn Ali (as) was born on the 4th of Sha'ban in the year 26 AH (647 CE) in the holy city of Medina. He was the son of Ali ibn Abi Talib (as) and Fatima bint Hizam (widely known as Umm ul-Banin), the paternal grandson of Abu Talib, and the fiercely loyal brother of Imam Hassan (as) and Imam Hussain (as). His life culminated in a heroic yet tragic martyrdom (Shahadat) on the 10th of Muharram, 61 AH at the Battle of Karbala in Iraq, where he served as the Commander and Standard-Bearer (Alambardar) of Imam Hussain's army. He was brutally martyred by Umayyad forces while attempting to bring water from the Euphrates River back to the thirsty children of the camp, losing both his arms in the process
 `,
 
     roleInKarbala:
@@ -81,7 +81,7 @@ Bibi Zainab bint Ali (sa) was born on the 5th of Jamadi al-Awwal in the year 5 A
       "Eldest son of Imam Hussain (AS), known for his resemblance to the Prophet (PBUH).",
 
     biography: `
-Hazrat Ali Akbar ibn Hussain (as) was born on the 11th of Sha'ban in the year 33 AH (654 CE) in the holy city of Medina. He was the eldest son of Imam Hussain (as) and Bibi Umm Layla, the paternal grandson of Ali ibn Abi Talib (as) and Fatima Zahra (sa), and the older brother of Imam Ali Zayn al-Abidin (as) and Hazrat Ali Asghar (as). His life culminated in an intensely heartbreaking martyrdom (Shahadat) as a young man on the 10th of Muharram, 61 AH at the Battle of Karbala in Iraq.After fighting with fierce courage, he was mortally wounded by a lance to his chest and a strike to his head while suffering from severe, agonizing thirst.
+Hazrat Ali Akbar ibn Hussain (as) was born on the 11th of Sha'ban in the year 33 AH (654 CE) in the holy city of Medina. He was the son of Imam Hussain (as) and Bibi Umm Layla (sa), the paternal grandson of Ali ibn Abi Talib (as) and Fatima Zahra (sa), and the brother of Imam Ali Zayn al-Abidin (as) and Hazrat Ali Asghar (as). His life culminated in an intensely heartbreaking martyrdom (Shahadat) as a young man on the 10th of Muharram, 61 AH at the Battle of Karbala in Iraq.After fighting with fierce courage, he was mortally wounded by a lance to his chest and a strike to his head while suffering from severe, agonizing thirst.
 `,
 
     roleInKarbala:
@@ -129,7 +129,7 @@ Hazrat Ali Asghar ibn Hussain (as) was born on the 9th of Rajab in the year 60 A
       "The surviving son of Imam Hussain (AS) and the Fourth Imam.",
 
     biography: `
-Imam Ali ibn al-Hussain (as), widely known as Imam Zain al-Abidin (The Adornment of the Worshippers) and Sajjad (The One Prostrating Constantly), was born on the 5th of Shaban in the year 38 AH (658 CE) in the holy city of Medina. He was the son of Imam Hussain (as) and Bibi Shahrbanu, the paternal grandson of Ali ibn Abi Talib (as) and Fatima Zahra (sa), and the elder brother of Hazrat Ali Akbar (as). He was the sole surviving adult male from Imam Hussain's family at the Battle of Karbala in 61 AH (680 CE), saved from the massacre only because he was bedridden with a severe, debilitating illness. Following decades of keeping the message of Karbala alive under intense state surveillance, his life culminated in a tragic martyrdom (Shahadat) by poisoning on the 25th of Muharram in the year 95 AH (713 CE) in Medina, ordered by the Umayyad caliph Al-Walid I, and he was buried in the Al-Baqi cemetery.
+Imam Ali ibn al-Hussain (as), widely known as Imam Zain al-Abidin (The Adornment of the Worshippers) and Sajjad (The One Prostrating Constantly), was born on the 5th of Shaban in the year 38 AH (658 CE) in the holy city of Medina. He was the son of Imam Hussain (as) and Bibi Shahrbanu (sa), the paternal grandson of Ali ibn Abi Talib (as) and Fatima Zahra (sa), and the elder brother of Hazrat Ali Akbar (as). He was the sole surviving adult male from Imam Hussain's family at the Battle of Karbala in 61 AH (680 CE), saved from the massacre only because he was bedridden with a severe, debilitating illness. Following decades of keeping the message of Karbala alive under intense state surveillance, his life culminated in a tragic martyrdom (Shahadat) by poisoning on the 25th of Muharram in the year 95 AH (713 CE) in Medina, ordered by the Umayyad caliph Al-Walid I, and he was buried in the Al-Baqi cemetery.
 `,
 
     roleInKarbala:
